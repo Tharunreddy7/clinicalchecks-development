@@ -1,3 +1,6 @@
+# Main function to run CM edit checks and generate the Excel issue report
+# Development update for next clinicalchecks version
+# Development update for next clinicalchecks version1
 run_cm_checks <- function(sas_file, output_file) {
 
   # Check SAS input path
