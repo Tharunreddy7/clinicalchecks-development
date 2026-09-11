@@ -1,0 +1,17 @@
+Package: clinicalchecks
+Title: Clinical Data Edit Check Utilities
+Version: 0.0.0.9000
+Authors@R:
+    person("Tharun", "Reddy",
+           email = "kallutharunreddy7@gmail.com",
+           role = c("aut", "cre"))
+Description: Provides reusable functions for performing clinical data
+    edit checks. The package supports domain-specific validation,
+    project-specific rules, and generation of Excel issue reports.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.0
+Imports: 
+    haven,
+    writexl
