@@ -1,3 +1,4 @@
+# Main function to run CM edit checks and generate the Excel issue report
 run_cm_checks <- function(sas_file, output_file) {
 
   # Check SAS input path
